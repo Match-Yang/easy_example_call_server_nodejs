@@ -8,7 +8,7 @@
 > 
 > Heroku is now charged!!!
 >
-> Please use https://github.com/ZEGOCLOUD/easy_server_nextjs for test instead!!!
+> Please use https://github.com/ZEGOCLOUD/easy_server_nextjs to deploy test server instead!!!
 
 
 This repository is use for deploy a backend service for obtain ZEGO auth token and sending FCM messages to device as call invitation.
