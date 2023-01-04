@@ -1,6 +1,15 @@
 # EasyExample Call Server - NodeJS
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZEGOCLOUD/easy_example_call_server_nodejs)
+> **Warning**
+> 
+> Heroku is now charged!!!
+> 
+> Heroku is now charged!!!
+> 
+> Heroku is now charged!!!
+>
+> Please use https://github.com/ZEGOCLOUD/easy_server_nextjs for test instead!!!
+
 
 This repository is use for deploy a backend service for obtain ZEGO auth token and sending FCM messages to device as call invitation.
 
